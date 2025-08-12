@@ -19,7 +19,8 @@
     "react-native-navigation": "^8.2.1",
     "react-native-safe-area-context": "5.4.0",
     "react-native-screens": "~4.11.1",
-    "expo-system-ui": "~5.0.10"
+    "expo-system-ui": "~5.0.10",
+    "expo-dev-client": "~5.2.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
